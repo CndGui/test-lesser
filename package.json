@@ -39,5 +39,6 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-static": "^3.0.1"
-	}
+	},
+	"homepage": "https://CndGui.github.io/test-lesser"
 }
